@@ -46,12 +46,12 @@
 	<distributionManagement>
 		<repository>
 			<id>project1-release</id>
-			<name>coit-backend1-release</name>
+			<name>project1-release</name>
 			<url>http://52.86.98.97:8081/repository/project1-release/</url>
 		</repository>
 		<snapshotRepository>
 			<id>project1-snapshot</id>
-			<name>coit-backend1-snapshot</name>
+			<name>project1-snapshot</name>
 			<url>http://52.86.98.97:8081/repository/project1-snapshot/</url>
 		</snapshotRepository>
 	</distributionManagement>
